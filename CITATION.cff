@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Cata Risk Lab: Project Repository"
+message: "Please cite this software as below."
+type: software
+authors:
+  - family-names: "Cata"
+    given-names: "Anthony D."
+    affiliation: "Cata Risk Lab"
+version: 1.0.0
+date-released: 2026-01-08
+license: MIT
+repository-code: "https://github.com/dcata004"
+abstract: "Open source governance and compliance tools developed by Cata Risk Lab."
+keywords:
+  - "AI Governance"
+  - "Cybersecurity"
